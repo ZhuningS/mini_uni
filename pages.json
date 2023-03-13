@@ -1,0 +1,1191 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationStyle": "custom",
+				"backgroundColor": "#f8f8f8",
+				"backgroundColorTop": "#00000",
+				"backgroundColorBottom": "#f8f8f8"
+			}
+		},
+		{
+			"path": "pages/index2/index",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/cal/index",
+			"style": {
+				"navigationBarTitleText": "我的日历"
+			}
+		},
+		{
+			"path": "pages/demo/index",
+			"style": {
+				"navigationBarTitleText": "物流信息"
+			}
+		},
+		{
+			"path": "pages/cal2/index",
+			"style": {
+				"navigationBarTitleText": "我的日历2"
+			}
+		},
+		{
+			"path": "pages/dots/index",
+			"style": {
+				"navigationBarTitleText": "自定义轮播指示点"
+			}
+		},
+		{
+			"path": "pages/touchRemove/index",
+			"style": {
+				"navigationBarTitleText": "滑动删除"
+			}
+		},
+		{
+			"path": "pages/touchMove2/index",
+			"style": {
+				"navigationBarTitleText": "滑动删除2"
+			}
+		},
+		{
+			"path": "pages/pop/index",
+			"style": {
+				"navigationBarTitleText": "弹框禁止底层滑动"
+			}
+		},
+		{
+			"path": "pages/cardCricle/index",
+			"style": {
+				"navigationBarTitleText": "卡券半圆"
+			}
+		},
+		{
+			"path": "pages/pie/index",
+			"style": {
+				"navigationBarTitleText": "echarts饼图"
+			}
+		},
+		{
+			"path": "pages/charts/index",
+			"style": {
+				"navigationBarTitleText": "echarts官方提供的小程序版本",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/addImg/index",
+			"style": {
+				"navigationBarTitleText": "上传图片",
+				"navigationBarBackgroundColor": "#e0bbc3",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/getStar/index",
+			"style": {
+				"navigationBarTitleText": "星星评分"
+			}
+		},
+		{
+			"path": "pages/sendCode/index",
+			"style": {
+				"navigationBarTitleText": "发送验证码"
+			}
+		},
+		{
+			"path": "pages/sendCode/index2",
+			"style": {
+				"navigationBarTitleText": "弹框验证码",
+				"navigationBarBackgroundColor": "#a4d1eb",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/sendCode2/index",
+			"style": {
+				"navigationBarTitleText": "发送验证码2"
+			}
+		},
+		{
+			"path": "pages/sendCode2/index2",
+			"style": {
+				"navigationBarTitleText": "发送验证码3"
+			}
+		},
+		{
+			"path": "pages/choseAddress/index",
+			"style": {
+				"navigationBarTitleText": "选择地址"
+			}
+		},
+		{
+			"path": "pages/dots/index2",
+			"style": {
+				"navigationBarTitleText": "自定义轮播指示点2"
+			}
+		},
+		{
+			"path": "pages/choseList/index",
+			"style": {
+				"navigationBarTitleText": "筛选页"
+			}
+		},
+		{
+			"path": "pages/scroll/index",
+			"style": {
+				"navigationBarTitleText": "滚动条分类"
+			}
+		},
+		{
+			"path": "pages/scroll2/index",
+			"style": {}
+		},
+		{
+			"path": "pages/scroll/index2",
+			"style": {}
+		},
+		{
+			"path": "pages/charts/index2",
+			"style": {
+				"navigationBarTitleText": "饼图自定义"
+			}
+		},
+		{
+			"path": "pages/scroll/index3",
+			"style": {
+				"navigationBarTitleText": "横向滑动",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/asyncPromise/index",
+			"style": {}
+		},
+		{
+			"path": "pages/demo/index2",
+			"style": {
+				"navigationBarTitleText": "物流信息第二种写法"
+			}
+		},
+		{
+			"path": "pages/cal/index2",
+			"style": {
+				"navigationBarTitleText": "我的日历3"
+			}
+		},
+		{
+			"path": "pages/cal2/index2",
+			"style": {
+				"navigationBarTitleText": "我的日历4"
+			}
+		},
+		{
+			"path": "pages/vantCalen/index",
+			"style": {
+				"navigationBarTitleText": "vant的多日期选择"
+			}
+		},
+		{
+			"path": "pages/charts/index3",
+			"style": {
+				"navigationBarTitleText": "折线图"
+			}
+		},
+		{
+			"path": "pages/charts/index4",
+			"style": {
+				"navigationBarTitleText": "饼图"
+			}
+		},
+		{
+			"path": "pages/charts/index5",
+			"style": {
+				"navigationBarTitleText": "折线图1"
+			}
+		},
+		{
+			"path": "pages/charts/index6",
+			"style": {
+				"navigationBarTitleText": "柱形图"
+			}
+		},
+		{
+			"path": "pages/charts/index7",
+			"style": {
+				"navigationBarTitleText": "一些图表"
+			}
+		}
+	],
+	"subPackages": [
+		{
+			"root": "pages/another/",
+			"pages": [
+				{
+					"path": "subIndex/index",
+					"style": {}
+				},
+				{
+					"path": "overflow/index",
+					"style": {}
+				},
+				{
+					"path": "countdown/index",
+					"style": {}
+				},
+				{
+					"path": "mroevideos/index",
+					"style": {}
+				},
+				{
+					"path": "choseGoods/index",
+					"style": {}
+				},
+				{
+					"path": "swiper-threeD/index",
+					"style": {}
+				},
+				{
+					"path": "draw/index",
+					"style": {}
+				},
+				{
+					"path": "jiugongeLottery/index",
+					"style": {}
+				},
+				{
+					"path": "customizeScroll/index",
+					"style": {}
+				},
+				{
+					"path": "videosSwitch/index",
+					"style": {}
+				},
+				{
+					"path": "Like/index",
+					"style": {}
+				},
+				{
+					"path": "Like/index2",
+					"style": {}
+				},
+				{
+					"path": "Like/index3",
+					"style": {}
+				},
+				{
+					"path": "countdown/index2",
+					"style": {}
+				},
+				{
+					"path": "circleRing/index",
+					"style": {}
+				},
+				{
+					"path": "circleRing/index2",
+					"style": {}
+				},
+				{
+					"path": "scroll-x/index",
+					"style": {}
+				},
+				{
+					"path": "dateChose/index",
+					"style": {}
+				},
+				{
+					"path": "swiper-threeD/index2",
+					"style": {}
+				},
+				{
+					"path": "customScroll/index",
+					"style": {}
+				},
+				{
+					"path": "cal/index",
+					"style": {}
+				},
+				{
+					"path": "clockin/index",
+					"style": {}
+				},
+				{
+					"path": "inputCode/index",
+					"style": {}
+				},
+				{
+					"path": "login/index",
+					"style": {}
+				},
+				{
+					"path": "scrollNews/index",
+					"style": {}
+				},
+				{
+					"path": "imgRadius/index",
+					"style": {}
+				},
+				{
+					"path": "imgHead/index",
+					"style": {}
+				},
+				{
+					"path": "filterBlur/index",
+					"style": {}
+				},
+				{
+					"path": "cust-swiper/index",
+					"style": {}
+				}
+			]
+		},
+		{
+			"root": "pages/subPack/",
+			"pages": [
+				{
+					"path": "calen/index",
+					"style": {}
+				},
+				{
+					"path": "calen/index2",
+					"style": {}
+				},
+				{
+					"path": "animationBox/index",
+					"style": {}
+				},
+				{
+					"path": "transitionBox/index",
+					"style": {}
+				},
+				{
+					"path": "calen/index3",
+					"style": {}
+				},
+				{
+					"path": "canvas2d/index",
+					"style": {}
+				},
+				{
+					"path": "canvasPoster/index",
+					"style": {}
+				},
+				{
+					"path": "loading/index",
+					"style": {}
+				},
+				{
+					"path": "chating/index",
+					"style": {}
+				},
+				{
+					"path": "loading/index2",
+					"style": {}
+				},
+				{
+					"path": "loading/index3",
+					"style": {}
+				},
+				{
+					"path": "loading/loadPage",
+					"style": {}
+				},
+				{
+					"path": "otherAnimation/index",
+					"style": {}
+				},
+				{
+					"path": "roateY180/index",
+					"style": {}
+				},
+				{
+					"path": "customIpt/index",
+					"style": {}
+				},
+				{
+					"path": "loading/index4",
+					"style": {}
+				},
+				{
+					"path": "navTab/index",
+					"style": {}
+				},
+				{
+					"path": "loadingIndex/index",
+					"style": {}
+				},
+				{
+					"path": "loading/index5",
+					"style": {}
+				}
+			]
+		},
+		{
+			"root": "pages/cssCase/",
+			"pages": [
+				{
+					"path": "conic-gradient/index",
+					"style": {}
+				},
+				{
+					"path": "chargeCss/index",
+					"style": {}
+				},
+				{
+					"path": "colorChange/index",
+					"style": {}
+				},
+				{
+					"path": "colorChange/colorItem",
+					"style": {}
+				},
+				{
+					"path": "rotateBall/index",
+					"style": {}
+				},
+				{
+					"path": "line/index",
+					"style": {}
+				},
+				{
+					"path": "warnIcon/index",
+					"style": {}
+				},
+				{
+					"path": "rotateTetx/index",
+					"style": {}
+				},
+				{
+					"path": "aButton/index",
+					"style": {}
+				},
+				{
+					"path": "fanzhuanText/index",
+					"style": {}
+				},
+				{
+					"path": "cuteSwitch/index",
+					"style": {}
+				},
+				{
+					"path": "aWirting/index",
+					"style": {}
+				},
+				{
+					"path": "404Page/index",
+					"style": {}
+				},
+				{
+					"path": "shadingText/index",
+					"style": {}
+				},
+				{
+					"path": "card/index",
+					"style": {}
+				},
+				{
+					"path": "dengpao/index",
+					"style": {}
+				},
+				{
+					"path": "lineHalf/index",
+					"style": {}
+				},
+				{
+					"path": "inputPass/index",
+					"style": {}
+				},
+				{
+					"path": "bgImg/index",
+					"style": {}
+				},
+				{
+					"path": "loadText/index",
+					"style": {}
+				},
+				{
+					"path": "cardTrans/index",
+					"style": {}
+				},
+				{
+					"path": "circleHead/index",
+					"style": {}
+				},
+				{
+					"path": "stepsAnt/index",
+					"style": {}
+				},
+				{
+					"path": "meteor/index",
+					"style": {}
+				},
+				{
+					"path": "bottomText/index",
+					"style": {}
+				},
+				{
+					"path": "cubeRun/index",
+					"style": {}
+				},
+				{
+					"path": "btnAnim/index",
+					"style": {}
+				},
+				{
+					"path": "sunset/index",
+					"style": {}
+				},
+				{
+					"path": "snow/index",
+					"style": {}
+				},
+				{
+					"path": "autoOnePage/index",
+					"style": {}
+				},
+				{
+					"path": "iconFall/index",
+					"style": {}
+				},
+				{
+					"path": "smile/index",
+					"style": {}
+				},
+				{
+					"path": "bdd/index",
+					"style": {}
+				},
+				{
+					"path": "xrr/index",
+					"style": {}
+				},
+				{
+					"path": "mediaScreen/index",
+					"style": {}
+				},
+				{
+					"path": "gird/index",
+					"style": {}
+				},
+				{
+					"path": "progress/index",
+					"style": {}
+				},
+				{
+					"path": "cusCircleTab/index",
+					"style": {}
+				},
+				{
+					"path": "newTab/index",
+					"style": {}
+				},
+				{
+					"path": "menuSwiper/index",
+					"style": {}
+				},
+				{
+					"path": "stripeBg/index",
+					"style": {}
+				},
+				{
+					"path": "guardFollow/index",
+					"style": {}
+				},
+				{
+					"path": "oTabbar/index",
+					"style": {}
+				},
+				{
+					"path": "cardVoucher/index",
+					"style": {}
+				}
+			]
+		},
+		{
+			"root": "pages/wxCase/",
+			"pages": [
+				{
+					"path": "cutImage/index",
+					"style": {}
+				},
+				{
+					"path": "uploadCutImg/index",
+					"style": {}
+				},
+				{
+					"path": "customTab/index",
+					"style": {}
+				},
+				{
+					"path": "customTab/nav",
+					"style": {}
+				},
+				{
+					"path": "login/index",
+					"style": {}
+				},
+				{
+					"path": "laohuji/index",
+					"style": {}
+				},
+				{
+					"path": "navigator/index",
+					"style": {}
+				},
+				{
+					"path": "popCustom/index",
+					"style": {}
+				},
+				{
+					"path": "checkbox/index",
+					"style": {}
+				},
+				{
+					"path": "radioBox/index",
+					"style": {}
+				},
+				{
+					"path": "pubuliu/index",
+					"style": {}
+				},
+				{
+					"path": "wclound/index",
+					"style": {}
+				},
+				{
+					"path": "costomNav/index",
+					"style": {}
+				},
+				{
+					"path": "shopIndex/index",
+					"style": {}
+				},
+				{
+					"path": "vantCircle/index",
+					"style": {}
+				},
+				{
+					"path": "bgImg/index",
+					"style": {}
+				},
+				{
+					"path": "circleBar/index",
+					"style": {}
+				},
+				{
+					"path": "customSheet/index",
+					"style": {}
+				},
+				{
+					"path": "downFile/index",
+					"style": {}
+				},
+				{
+					"path": "exlipText/index",
+					"style": {}
+				},
+				{
+					"path": "exlipTwo/index",
+					"style": {}
+				},
+				{
+					"path": "exlipTwo/index2",
+					"style": {}
+				},
+				{
+					"path": "exlipText/index2",
+					"style": {}
+				},
+				{
+					"path": "pageMeta/index",
+					"style": {}
+				},
+				{
+					"path": "buttonGr/index",
+					"style": {}
+				},
+				{
+					"path": "swiper_ve/index",
+					"style": {}
+				},
+				{
+					"path": "showEli/index",
+					"style": {}
+				},
+				{
+					"path": "swiper_goods/index",
+					"style": {}
+				},
+				{
+					"path": "rects/index",
+					"style": {}
+				},
+				{
+					"path": "newsSwiper/index",
+					"style": {}
+				},
+				{
+					"path": "text/index",
+					"style": {}
+				},
+				{
+					"path": "showAction/index",
+					"style": {}
+				},
+				{
+					"path": "exFont/index",
+					"style": {}
+				},
+				{
+					"path": "popCust/index",
+					"style": {}
+				},
+				{
+					"path": "statusList/index",
+					"style": {}
+				},
+				{
+					"path": "fileDown/index",
+					"style": {}
+				},
+				{
+					"path": "vanUpload/index",
+					"style": {}
+				},
+				{
+					"path": "vanUpload/index2",
+					"style": {}
+				},
+				{
+					"path": "textarea/index",
+					"style": {}
+				},
+				{
+					"path": "newsSwiper/index2",
+					"style": {}
+				},
+				{
+					"path": "iconFont/index",
+					"style": {}
+				},
+				{
+					"path": "slot/index",
+					"style": {}
+				},
+				{
+					"path": "webview/index",
+					"style": {}
+				},
+				{
+					"path": "loadingBar/index",
+					"style": {}
+				},
+				{
+					"path": "pubuliu3/index",
+					"style": {}
+				},
+				{
+					"path": "scrollCard/index",
+					"style": {}
+				},
+				{
+					"path": "scrollIntoView/index",
+					"style": {}
+				},
+				{
+					"path": "scrollIntoView/detail",
+					"style": {}
+				}
+			]
+		},
+		{
+			"root": "pages/jsCase/",
+			"pages": [
+				{
+					"path": "historySearch/index",
+					"style": {}
+				},
+				{
+					"path": "keyWordHight/index",
+					"style": {}
+				},
+				{
+					"path": "addressMap/index",
+					"style": {}
+				},
+				{
+					"path": "addressMap/index2",
+					"style": {}
+				},
+				{
+					"path": "shaing/index",
+					"style": {}
+				},
+				{
+					"path": "clock/index",
+					"style": {}
+				},
+				{
+					"path": "clockIn/index",
+					"style": {}
+				},
+				{
+					"path": "imgLoad/index",
+					"style": {}
+				},
+				{
+					"path": "draw/index",
+					"style": {}
+				},
+				{
+					"path": "pageCon/index",
+					"style": {}
+				},
+				{
+					"path": "cal/index",
+					"style": {}
+				},
+				{
+					"path": "checkIn/index",
+					"style": {}
+				},
+				{
+					"path": "onLoaction/index",
+					"style": {}
+				},
+				{
+					"path": "dateSel/index",
+					"style": {}
+				},
+				{
+					"path": "addressList/index",
+					"style": {}
+				},
+				{
+					"path": "cal2/index",
+					"style": {}
+				},
+				{
+					"path": "draw2/index",
+					"style": {}
+				},
+				{
+					"path": "richImg/index",
+					"style": {}
+				},
+				{
+					"path": "addNew/index",
+					"style": {}
+				},
+				{
+					"path": "scList/index",
+					"style": {}
+				},
+				{
+					"path": "plusAredu/index",
+					"style": {}
+				},
+				{
+					"path": "papers/index",
+					"style": {}
+				},
+				{
+					"path": "multiTime/index",
+					"style": {}
+				},
+				{
+					"path": "multiTime/index2",
+					"style": {}
+				},
+				{
+					"path": "multiTime/index3",
+					"style": {}
+				},
+				{
+					"path": "multiTime/index4",
+					"style": {}
+				},
+				{
+					"path": "btnAudio/index",
+					"style": {}
+				},
+				{
+					"path": "fixChose/index",
+					"style": {}
+				},
+				{
+					"path": "draw3/index",
+					"style": {}
+				},
+				{
+					"path": "draw4/index",
+					"style": {}
+				},
+				{
+					"path": "keyWordHight/index2",
+					"style": {}
+				},
+				{
+					"path": "keyWordHight/index3",
+					"style": {}
+				},
+				{
+					"path": "consoleLog/index",
+					"style": {}
+				},
+				{
+					"path": "pageDestory/index",
+					"style": {}
+				},
+				{
+					"path": "draw4/index2",
+					"style": {}
+				},
+				{
+					"path": "draw4/easy",
+					"style": {}
+				},
+				{
+					"path": "lazyLoad/index",
+					"style": {}
+				},
+				{
+					"path": "citySel/index",
+					"style": {}
+				},
+				{
+					"path": "mapLocation/index",
+					"style": {}
+				}
+			]
+		},
+		{
+			"root": "pages/effects/",
+			"pages": [
+				{
+					"path": "denglong/index",
+					"style": {}
+				},
+				{
+					"path": "cdenglong/index",
+					"style": {}
+				},
+				{
+					"path": "3dClound/index",
+					"style": {}
+				},
+				{
+					"path": "labelColor/index",
+					"style": {}
+				},
+				{
+					"path": "redRain/index",
+					"style": {}
+				},
+				{
+					"path": "clipRed/index",
+					"style": {}
+				},
+				{
+					"path": "audioCust/index",
+					"style": {}
+				},
+				{
+					"path": "snows/index",
+					"style": {}
+				},
+				{
+					"path": "popMenu/index",
+					"style": {}
+				},
+				{
+					"path": "popMenu/index2",
+					"style": {}
+				},
+				{
+					"path": "popMenu2/index",
+					"style": {}
+				},
+				{
+					"path": "avatar/index",
+					"style": {}
+				},
+				{
+					"path": "snow2/index",
+					"style": {}
+				},
+				{
+					"path": "databoad/index",
+					"style": {}
+				},
+				{
+					"path": "guaguale/index",
+					"style": {}
+				},
+				{
+					"path": "roatePan/index",
+					"style": {}
+				},
+				{
+					"path": "fu/index",
+					"style": {}
+				},
+				{
+					"path": "mixins/index",
+					"style": {}
+				}
+			]
+		},
+		{
+			"root": "pages/apiDemo/",
+			"pages": [
+				{
+					"path": "accelerometer/index",
+					"style": {}
+				},
+				{
+					"path": "shad/index",
+					"style": {}
+				},
+				{
+					"path": "canvastoImg/index",
+					"style": {}
+				},
+				{
+					"path": "moveCert/index",
+					"style": {}
+				},
+				{
+					"path": "moveCert/index2",
+					"style": {}
+				},
+				{
+					"path": "moveCert/index3",
+					"style": {}
+				},
+				{
+					"path": "moveCert/index4",
+					"style": {}
+				},
+				{
+					"path": "moveCert/index5",
+					"style": {}
+				},
+				{
+					"path": "getUserInfo/index",
+					"style": {}
+				}
+			]
+		},
+		{
+			"root": "pages/actualPage/",
+			"pages": [
+				{
+					"path": "list/index",
+					"style": {}
+				},
+				{
+					"path": "drag/index",
+					"style": {}
+				},
+				{
+					"path": "steps/index",
+					"style": {}
+				},
+				{
+					"path": "oneTop/index",
+					"style": {}
+				},
+				{
+					"path": "percent/index",
+					"style": {}
+				},
+				{
+					"path": "scrollGap/index",
+					"style": {}
+				},
+				{
+					"path": "konw/index",
+					"style": {}
+				},
+				{
+					"path": "switchIndex/index",
+					"style": {}
+				},
+				{
+					"path": "myIndex/index",
+					"style": {}
+				},
+				{
+					"path": "countdown/index",
+					"style": {}
+				},
+				{
+					"path": "scheduleCard/index",
+					"style": {}
+				}
+			]
+		}
+	],
+	"tabBar": {
+		"custom": true,
+		"color": "#333333",
+		"selectedColor": "#6B1F72",
+		"borderStyle": "white",
+		"backgroundColor": "#ffffff",
+		"list": [
+			{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/img/tabbar/icon_index.png",
+				"selectedIconPath": "static/img/tabbar/icon_index_sel.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/charts/index",
+				"iconPath": "static/img/tabbar/icon_order.png",
+				"selectedIconPath": "static/img/tabbar/icon_order_sel.png",
+				"text": "饼图"
+			},
+			{
+				"pagePath": "pages/addImg/index",
+				"iconPath": "static/img/tabbar/icon_safe.png",
+				"selectedIconPath": "static/img/tabbar/icon_safe_sel.png",
+				"text": "上传图片"
+			},
+			{
+				"pagePath": "pages/sendCode/index2",
+				"iconPath": "static/img/tabbar/icon_my.png",
+				"selectedIconPath": "static/img/tabbar/icon_my_sel.png",
+				"text": "验证码"
+			}
+		]
+	},
+	"sitemapLocation": "sitemap.json",
+	"permission": {
+		"scope.userLocation": {
+			"desc": "您的位置将用来选择收货地址"
+		}
+	},
+	"requiredPrivateInfos": [
+		"getLocation"
+	],
+	"requiredBackgroundModes": [
+		"audio",
+		"location"
+	],
+	"easycom": {
+		"autoscan": true,
+		"custom": {
+			"navBar": "@/components/navBar/navBar"
+		}
+	},
+	"globalStyle": {
+		"backgroundTextStyle": "dark",
+		"navigationBarBackgroundColor": "#fff",
+		"navigationBarTitleText": "Weixin",
+		"navigationBarTextStyle": "black"
+	}
+}

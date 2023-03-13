@@ -1,0 +1,16 @@
+.history
+.history/
+/.history
+node_modules
+node_modules/
+*deprecate*
+deprecate
+.vscode
+*.zip
+*.7z
+*.rar
+/unpackage/
+unpackage/
+unpackage
+新建文件夹
+# *副本*

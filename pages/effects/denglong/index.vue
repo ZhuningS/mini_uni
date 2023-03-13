@@ -1,0 +1,229 @@
+<template>
+    <!-- pages/canvas/denglong/index.wxml -->
+    <view class="container">
+        <view class="box">
+            <view class="octagon octagon-bottom">
+                <view class="extra"></view>
+                <view class="extra extra-60"></view>
+                <view class="extra extra-120"></view>
+                <view class="extra extra-180"></view>
+                <view class="extra extra-240"></view>
+                <view class="extra extra-300"></view>
+                <view class="surface front"></view>
+                <view class="surface right-front"></view>
+                <view class="surface right-rear"></view>
+                <view class="surface rear"></view>
+                <view class="surface left-rear"></view>
+                <view class="surface left-front"></view>
+                <view class="pendant">
+                    <view class="line">
+                        <view class="knot"></view>
+                        <view class="knot knot-rotate-60"></view>
+                        <view class="knot knot-rotate-120"></view>
+                    </view>
+                    <view class="chinese-knot">
+                        <view class="chinese-knot-45">
+                            <view class="oval"></view>
+                            <view class="oval"></view>
+                            <view class="oval"></view>
+                            <view class="oval"></view>
+                        </view>
+                        <view class="chinese-knot--45">
+                            <view class="oval"></view>
+                            <view class="oval"></view>
+                            <view class="oval"></view>
+                            <view class="oval"></view>
+                        </view>
+                    </view>
+                </view>
+            </view>
+            <view class="octagon">
+                <view class="extra"></view>
+                <view class="extra extra-60"></view>
+                <view class="extra extra-120"></view>
+                <view class="extra extra-180"></view>
+                <view class="extra extra-240"></view>
+                <view class="extra extra-300"></view>
+                <view class="surface front">
+                    <view class="surface-decoration left-top"></view>
+                    <view class="surface-decoration right-top"></view>
+                    <view class="surface-decoration left-bottom"></view>
+                    <view class="surface-decoration right-bottom"></view>
+                </view>
+                <view class="surface right-front">
+                    <view class="surface-decoration left-top"></view>
+                    <view class="surface-decoration right-top"></view>
+                    <view class="surface-decoration left-bottom"></view>
+                    <view class="surface-decoration right-bottom"></view>
+                </view>
+                <view class="surface right-rear">
+                    <view class="surface-decoration left-top"></view>
+                    <view class="surface-decoration right-top"></view>
+                    <view class="surface-decoration left-bottom"></view>
+                    <view class="surface-decoration right-bottom"></view>
+                </view>
+                <view class="surface rear">
+                    <view class="surface-decoration left-top"></view>
+                    <view class="surface-decoration right-top"></view>
+                    <view class="surface-decoration left-bottom"></view>
+                    <view class="surface-decoration right-bottom"></view>
+                </view>
+                <view class="surface left-rear">
+                    <view class="surface-decoration left-top"></view>
+                    <view class="surface-decoration right-top"></view>
+                    <view class="surface-decoration left-bottom"></view>
+                    <view class="surface-decoration right-bottom"></view>
+                </view>
+                <view class="surface left-front">
+                    <view class="surface-decoration left-top"></view>
+                    <view class="surface-decoration right-top"></view>
+                    <view class="surface-decoration left-bottom"></view>
+                    <view class="surface-decoration right-bottom"></view>
+                </view>
+                <view class="surface bottom"></view>
+            </view>
+            <view class="octagon octagon-top">
+                <view class="top-line"></view>
+                <view class="top-line top-line-60"></view>
+                <view class="top-line top-line-120"></view>
+                <view class="extra">
+                    <view class="pendant">
+                        <view class="line">
+                            <view class="knot"></view>
+                            <view class="knot knot-rotate-60"></view>
+                            <view class="knot knot-rotate-120"></view>
+                        </view>
+                    </view>
+                </view>
+                <view class="extra extra-60">
+                    <view class="pendant">
+                        <view class="line">
+                            <view class="knot"></view>
+                            <view class="knot knot-rotate-60"></view>
+                            <view class="knot knot-rotate-120"></view>
+                        </view>
+                    </view>
+                </view>
+                <view class="extra extra-120">
+                    <view class="pendant">
+                        <view class="line">
+                            <view class="knot"></view>
+                            <view class="knot knot-rotate-60"></view>
+                            <view class="knot knot-rotate-120"></view>
+                        </view>
+                    </view>
+                </view>
+                <view class="extra extra-180">
+                    <view class="pendant">
+                        <view class="line">
+                            <view class="knot"></view>
+                            <view class="knot knot-rotate-60"></view>
+                            <view class="knot knot-rotate-120"></view>
+                        </view>
+                    </view>
+                </view>
+                <view class="extra extra-240">
+                    <view class="pendant">
+                        <view class="line">
+                            <view class="knot"></view>
+                            <view class="knot knot-rotate-60"></view>
+                            <view class="knot knot-rotate-120"></view>
+                        </view>
+                    </view>
+                </view>
+                <view class="extra extra-300">
+                    <view class="pendant">
+                        <view class="line">
+                            <view class="knot"></view>
+                            <view class="knot knot-rotate-60"></view>
+                            <view class="knot knot-rotate-120"></view>
+                        </view>
+                    </view>
+                </view>
+                <view class="surface front">
+                    <view class="surface-decoration left-top"></view>
+                    <view class="surface-decoration right-top"></view>
+                    <view class="surface-decoration left-bottom"></view>
+                    <view class="surface-decoration right-bottom"></view>
+                </view>
+                <view class="surface right-front">
+                    <view class="surface-decoration left-top"></view>
+                    <view class="surface-decoration right-top"></view>
+                    <view class="surface-decoration left-bottom"></view>
+                    <view class="surface-decoration right-bottom"></view>
+                </view>
+                <view class="surface right-rear">
+                    <view class="surface-decoration left-top"></view>
+                    <view class="surface-decoration right-top"></view>
+                    <view class="surface-decoration left-bottom"></view>
+                    <view class="surface-decoration right-bottom"></view>
+                </view>
+                <view class="surface rear">
+                    <view class="surface-decoration left-top"></view>
+                    <view class="surface-decoration right-top"></view>
+                    <view class="surface-decoration left-bottom"></view>
+                    <view class="surface-decoration right-bottom"></view>
+                </view>
+                <view class="surface left-rear">
+                    <view class="surface-decoration left-top"></view>
+                    <view class="surface-decoration right-top"></view>
+                    <view class="surface-decoration left-bottom"></view>
+                    <view class="surface-decoration right-bottom"></view>
+                </view>
+                <view class="surface left-front">
+                    <view class="surface-decoration left-top"></view>
+                    <view class="surface-decoration right-top"></view>
+                    <view class="surface-decoration left-bottom"></view>
+                    <view class="surface-decoration right-bottom"></view>
+                </view>
+            </view>
+            <!-- 起点 -->
+            <view class="circle"></view>
+        </view>
+    </view>
+</template>
+
+<script>
+// pages/canvas/denglong/index.js
+export default {
+    data() {
+        return {};
+    }
+    /**
+     * 生命周期函数--监听页面加载
+     */,
+    onLoad: function (options) {},
+    /**
+     * 生命周期函数--监听页面初次渲染完成
+     */
+    onReady: function () {},
+    /**
+     * 生命周期函数--监听页面显示
+     */
+    onShow: function () {},
+    /**
+     * 生命周期函数--监听页面隐藏
+     */
+    onHide: function () {},
+    /**
+     * 生命周期函数--监听页面卸载
+     */
+    onUnload: function () {},
+    /**
+     * 页面相关事件处理函数--监听用户下拉动作
+     */
+    onPullDownRefresh: function () {},
+    /**
+     * 页面上拉触底事件的处理函数
+     */
+    onReachBottom: function () {},
+    /**
+     * 用户点击右上角分享
+     */
+    onShareAppMessage: function () {},
+    methods: {}
+};
+</script>
+<style>
+@import './index.css';
+</style>
